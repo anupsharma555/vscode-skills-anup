@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Workspace Review"
+  short_description: "Explain workspace structure, flows, and readiness"
+  default_prompt: "Use $vs-workspace-review to review this workspace and explain its purpose, structure, main execution flow, setup status, important findings, and what to read next."

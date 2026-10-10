@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS GitHub Check Debugger"
+  short_description: "Explain failed Actions checks and verify scoped fixes"
+  default_prompt: "Use $vs-github-check-debugger for the current workspace task."

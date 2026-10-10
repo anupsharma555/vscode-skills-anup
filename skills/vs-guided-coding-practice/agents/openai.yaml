@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Guided Coding Practice"
+  short_description: "Learn through focused hints, exercises, and feedback"
+  default_prompt: "Use $vs-guided-coding-practice for the current workspace task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Project Instruction Author"
+  short_description: "Write source-grounded project and scoped instructions"
+  default_prompt: "Use $vs-project-instruction-author for the current workspace task."

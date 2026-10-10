@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Customization Reviewer"
+  short_description: "Audit prompt, agent, skill, and instruction quality"
+  default_prompt: "Use $vs-customization-reviewer for the current workspace task."

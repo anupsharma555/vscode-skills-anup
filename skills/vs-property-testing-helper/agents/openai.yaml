@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Property Testing Helper"
+  short_description: "Design meaningful properties and generated-input tests"
+  default_prompt: "Use $vs-property-testing-helper for the current workspace task."
