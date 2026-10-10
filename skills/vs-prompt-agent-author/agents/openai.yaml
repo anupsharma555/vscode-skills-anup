@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Prompt and Agent Author"
+  short_description: "Author focused prompts and custom agent profiles"
+  default_prompt: "Use $vs-prompt-agent-author for the current workspace task."

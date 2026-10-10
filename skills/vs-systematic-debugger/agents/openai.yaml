@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Systematic Debugger"
+  short_description: "Trace concrete failures and verify focused corrections"
+  default_prompt: "Use $vs-systematic-debugger for the current workspace task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Beginner Code Explainer"
+  short_description: "Summarize files or walk through code in plain language"
+  default_prompt: "Use $vscode-code-explainer-beginner to explain this file in everyday language, choosing a functional overview or code walkthrough to match my request."

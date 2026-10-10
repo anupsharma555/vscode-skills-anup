@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Test Gap Reviewer"
+  short_description: "Find missing behavioral tests and prioritize coverage"
+  default_prompt: "Use $vs-test-gap-reviewer for the current workspace task."

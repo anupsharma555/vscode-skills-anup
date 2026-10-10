@@ -1,0 +1,4 @@
+interface:
+  display_name: "VS Make AGENTS.md"
+  short_description: "Create and audit project AGENTS.md after full workspace review"
+  default_prompt: "Use $vs-make-agentsmd for the current workspace task."
